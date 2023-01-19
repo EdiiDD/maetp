@@ -7,6 +7,7 @@ import { ErrorUtils } from "../../share/domain/error.value";
 import { UseCaseLoginUser } from "../application/auth.loginUser";
 import { encrypt, verified } from "../../share/utils/bcrypt.handl";
 import { generateToken } from "../../share/utils/jwt.handle";
+import { AuthUserDTOValue } from "./user.value";
 
 export class AuthController {
 
@@ -44,10 +45,13 @@ export class AuthController {
 			const userReq = matchedData(req)
 
 			// Create a use case only for get a user by email
-			const user = await this.useCaseLoginUser.execute(new LoginValue({
-				email: userReq.email,
-				password: userReq.password
-			}))
+			const user = await this.useCaseLoginUser.execute(
+				new LoginValue(
+					{
+						email: userReq.email,
+						password: userReq.password
+					}
+				))
 
 			console.log(user)
 			if (!user) {
@@ -63,9 +67,18 @@ export class AuthController {
 				return
 			}
 
-			const token = generateToken(user?.email!)
-			console.log("3")
-			res.send({ token })
+			const token = generateToken(user?.uuid!)
+			const userDTO = new AuthUserDTOValue(
+				{
+					uuid: user.uuid,
+					nickName: user.nick_name,
+					email: user.email
+				}
+			)
+			res.send({
+				token,
+				user: userDTO
+			})
 
 		} catch (e) {
 			handleHttpError(res, 'ERROR_LOGIN_USER')
