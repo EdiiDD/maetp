@@ -1,11 +1,11 @@
-import UserModel from "../../user/infrastructure/user.schema";
 
 import { UserEntity } from "../../user/domain/user.entity";
 import { LoginEntity } from "../domain/auth.entity";
 import { AuthRepository } from "../domain/auth.repository";
 
 import { DuplicateItemError, ErrorEntity, UknowError } from "../../share/domain/error.value";
-import { UserValue } from "../../user/domain/user.value";
+import { UserValue } from "../domain/auth.value";
+import UserModel from "./auth.schema";
 
 export class MongoRepository implements AuthRepository {
 

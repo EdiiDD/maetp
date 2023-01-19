@@ -1,6 +1,5 @@
-import { Schema, model } from "mongoose";
-import { UserValue } from "../domain/user.value";
-
+import { Schema, model } from "mongoose"
+import { UserValue } from "../domain/auth.value"
 
 const UserSchema = new Schema<UserValue>(
 	{

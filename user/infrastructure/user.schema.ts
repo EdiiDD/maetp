@@ -1,8 +1,6 @@
 import { Schema, model } from "mongoose";
-import { UserValue } from "../domain/user.value";
 
-
-const UserSchema = new Schema<UserValue>(
+const UserSchema = new Schema(
 	{
 		nick_name: {
 			type: String
