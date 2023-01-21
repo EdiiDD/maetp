@@ -1,7 +1,8 @@
 import { LoginEntity } from "./auth.entity";
+import { UserValue } from "./auth.value";
+
 import { UserEntity } from "../../user/domain/user.entity";
 import { ErrorEntity } from "../../share/domain/error.value";
-import { UserValue } from "./auth.value";
 
 export interface AuthRepository {
 
