@@ -1,10 +1,12 @@
+import { SearchEntity, SearchWithIdValue } from "../../share/domain/search.value";
 import { GoalRepository } from "../domain/goal.repository";
 
-export class UseCaseGetAllGoals {
+export class UseCaseGetGoalById {
 
 	constructor(private readonly goalRepository: GoalRepository) { }
 
-	public execute = async (uuid: string) => {
-		return await this.goalRepository.getGoalById(uuid)
+	public execute = async (search: SearchEntity) => {
+		return await this.goalRepository.getGoalById(search)
+
 	}
 }

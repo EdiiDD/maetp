@@ -1,4 +1,3 @@
-
 import { UserEntity } from "../../user/domain/user.entity";
 import { LoginEntity } from "../domain/auth.entity";
 import { AuthRepository } from "../domain/auth.repository";
@@ -22,8 +21,6 @@ export class MongoRepository implements AuthRepository {
 	}
 
 	async loginUser(user: LoginEntity): Promise<UserValue | null> {
-		console.log("Aqui")
-		console.log(user)
 		const user1 = await UserModel.findOne({ email: user.email })
 		return user1
 	}
