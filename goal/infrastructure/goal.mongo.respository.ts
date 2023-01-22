@@ -5,6 +5,7 @@ import { GoalEntity } from "../domain/goal.entity";
 import { GoalRepository } from "../domain/goal.repository";
 import GoalModel from "./goal.schema";
 
+
 export class MongoRepository implements GoalRepository {
 
 	async getAllGoals(search: SearchBaseValue): Promise<GoalEntity[] | ErrorEntity> {
