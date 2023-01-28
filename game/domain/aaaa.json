@@ -1,0 +1,1186 @@
+[{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Atenas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Conocida por su sistema militar riguroso y su formación guerrera.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro comercial y cultural en Grecia Antigua",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Esparta?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Conocida por su sistema militar riguroso y su formación guerrera.",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro comercial y cultural en Grecia Antigua",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Delfos?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Conocida por su sistema militar riguroso y su formación guerrera.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro comercial y cultural en Grecia Antigua",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Corinto?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Conocida por su sistema militar riguroso y su formación guerrera.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro comercial y cultural en Grecia Antigua",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Tebas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Conocida por su sistema militar riguroso y su formación guerrera.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era una ciudad-estado importante en Beocia y fue el hogar de figuras mitológicas como Cadmo y Layo.",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Micenas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Conocida por su sistema militar riguroso y su formación guerrera.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era una antigua ciudad fortificada de la Edad de Bronce en Grecia.",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Cnossos?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Fue el hogar de la democracia y el lugar de nacimiento de figuras históricas como Sócrates, Platón y Aristóteles.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era una ciudad minoica importante en la isla de Creta.",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era una antigua ciudad fortificada de la Edad de Bronce en Grecia.",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Atenea Niké?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Era una ciudad-estado importante en el mar Egeo, conocida por su gran muro de la ciudad y el Atenea Niké.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": " Era un importante santuario en honor a la diosa de la victoria.",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era una ciudad minoica importante en la isla de Creta.",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Por qué motivo era famoso la antigua ciudad de Rodas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo de Rodas.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": " Era una ciudad-estado importante en el mar Egeo, conocida por su gran muro de la ciudad y el Coloso de Rodas.",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Era un importante centro religioso en Grecia Antigua, famoso por su Oráculo.",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Era el lugar donde se celebraban los Juegos Olímpicos antiguos.",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Dondé nació el filósofo clásico griego Sócrates?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Atenas",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Esparta",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Delfos",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Corinto",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿En qué año nació el filósofo clásico griego Sócrates?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "470 a.C",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "299 a.C",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "349 a.C",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "535 a.C",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿En qué año falleció el filósofo clásico griego Sócrates?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "399 a.C",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "299 a.C",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "349 a.C",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "535 a.C",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Cuáles fueron discípulos de Sócrates?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Platón y Xenofonte",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Platón y Aristóteles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Xenofonte y Aristóteles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Filipo y Aristóteles",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "Socrates murió por ..."
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Beber cicuta",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Por vejez",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Beber estramoni",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Beber adelfa",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Quién era el dios principal en la religión de la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Zeus",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Apolo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Poseidón",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Ares",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Cuál es el nombre de la ciudad-estado griega más famosa por sus juegos atléticos?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Atenas",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Olímpia",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Delfos",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Esparta",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué era el oráculo de Delfos en la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Un templo dedicado al dios Apolo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Un sistema de adivinación",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Un centro de entrenamiento para atletas",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Una escuela para la educación de los nobles",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué forma de gobierno tenía Atenas en la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Monarquía",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Teocracia",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Democracia",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Oligarquía",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Quién escribió la epopeya de Homero La Ilíada?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Sócrates",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Platón",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Homero",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Aristóteles",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Cuál era el propósito de los Juegos Olímpicos en la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Para celebrar la victoria en la guerra",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Para mostrar la superioridad militar",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Para honrar a los dioses",
+				"isCorrect": true
+			},
+			{
+				"language": "es",
+				"title": "Para promover la paz entre las ciudades-estado",
+				"isCorrect": false
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Quién fue el fundador de la Academia de Atenas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Platón",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Sócrates",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Aristóteles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Pitágoras",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Cuál es el nombre del famoso poeta lírico de la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Homero",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Sófocles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Esquilo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Píndaro",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Quién fue el famoso guerrero y héroe de la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Heracles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Odiseo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Perseo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Aquiles",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué fue el teatro en la antigua Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Un lugar de adoración religiosa",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Un lugar de educación",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Un lugar de almacenamiento de armas",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Un lugar de entretenimiento",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué era el Partenón en Atenas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Una ciudadela",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Una biblioteca",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Un palacio real",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Un templo dedicado a la diosa Atenea ",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué dios o diosa era considerado el protector de Atenas?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Apolo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Poseidón",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Hermes",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Atenea",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Cuál es el nombre del famoso teatro antiguo de Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Teatro de Herodes",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Teatro de Apolo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Teatro de Zeus",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Teatro de Dionisos",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Quién fue el primer poeta lírico en Grecia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Homero",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Esquilo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Sófocles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Alcman",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué famoso filósofo nació en la ciudad de Abdera, en Tracia?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Platón",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Aristóteles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Anaxagoras",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Demócrito",
+				"isCorrect": true
+			}
+		]
+	},
+	{
+		"questions": [{
+			"language": "es",
+			"title": "¿Qué famoso héroe mitológico griego fue conocido como "
+			el hombre fuerte " y el "
+			rey de los héroes "?"
+		}],
+		"answers": [{
+				"language": "es",
+				"title": "Aquiles",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Perseo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Teseo",
+				"isCorrect": false
+			},
+			{
+				"language": "es",
+				"title": "Heracles",
+				"isCorrect": true
+			}
+		]
+	}
+]
+
+
+{
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué ciudad estado de Grecia fue famosa por su ejército de hoplitas?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Tebas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Corinto",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Atenas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Esparta",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué famoso matemático y filósofo nació en la isla de Samos en el siglo VI a.C.?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Aristóteles",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Platón",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Euclides",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Pitágoras",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué ciudad estado de Grecia fue famosa por su arte y arquitectura?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Esparta",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Corinto",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Tebas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Atenas",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué famoso poeta y dramaturgo nació en la ciudad de Estagira en el siglo IV a.C.?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Homero",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Esquilo",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Sófocles",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Aristófanes",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué famoso héroe mitológico griego fue conocido como el "
+		príncipe de los héroes " y el "
+		héroe de los Argivos "?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Teseo",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Perseo",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Heracles",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Aquiles",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Cuál fue el evento más importante en la vida de un joven ateniense?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "su bautismo",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "su primera caza",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "su iniciación en la vida militar",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "su iniciación en la cultura y el teatro",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Quién fue el famoso orador y político ateniense conocido por su elocuencia y retórica?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Platón",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Sócrates",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Aristóteles",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Demóstenes",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué evento marcó el inicio de las Guerras Médicas?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "la invasión de Grecia por los persas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la conquista de Grecia por Alejandro Magno",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la muerte de Sócrates",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "el saqueo de la ciudad de Atenas por los persas",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué evento marcó el fin de la época clásica en Grecia?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "la conquista de Grecia por Alejandro Magno",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "el saqueo de la ciudad de Atenas por los persas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la muerte de Sócrates",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la caída de la ciudad de Atenas ante los romanos",
+			"isCorrect": true
+		}
+	]
+},
+
+
+
+{
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué tipo de arte era más valorado en la antigua Grecia?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "la pintura",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la música",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la poesía",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "la escultura",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Quién fue el famoso historiador y geógrafo griego conocido por sus obras \"Historias\" y \"Geografía\"?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Platón",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Sócrates",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Aristóteles",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Heródoto",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué ciudad estado griega se caracterizaba por sus ciudadanos libres y democráticos?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Esparta",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Tebas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Rodas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Atenas",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Qué ciudad estado griega se caracterizaba por sus guerreros y su sistema político oligárquico?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Atenas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Tebas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Rodas",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Esparta",
+			"isCorrect": true
+		}
+	]
+}, {
+	"questions": [{
+		"language": "es",
+		"title": "¿Quién fue el famoso filósofo griego conocido por sus obras \"La República\" y \"El Fedón\"?"
+	}],
+	"answers": [{
+			"language": "es",
+			"title": "Aristóteles",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Heródoto",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Sócrates",
+			"isCorrect": false
+		},
+		{
+			"language": "es",
+			"title": "Platón",
+			"isCorrect": true
+		}
+	]
+}
