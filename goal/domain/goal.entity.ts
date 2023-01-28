@@ -1,4 +1,5 @@
 export interface GoalEntity {
-	name: string
+	language: string
+	title: string
 	description: string
 }

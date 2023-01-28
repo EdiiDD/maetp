@@ -7,6 +7,5 @@ export class UseCaseGetGoalById {
 
 	public execute = async (search: SearchEntity) => {
 		return await this.goalRepository.getGoalById(search)
-
 	}
 }

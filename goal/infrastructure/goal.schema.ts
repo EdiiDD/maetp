@@ -1,18 +1,16 @@
 import { Schema, model } from "mongoose"
-import { GoalValue } from "../domain/goal.value"
+import { GoalEntity } from "../domain/goal.entity"
 
-const UserSchema = new Schema<GoalValue>(
+const GoalSchema = new Schema<GoalEntity>(
 	{
-		uuid: {
-			type: String,
-			unique: true
+		language: {
+			type: String
 		},
-		name: {
+		title: {
 			type: String
 		},
 		description: {
-			type: String,
-			unique: true
+			type: String
 		}
 	},
 	{
@@ -20,5 +18,5 @@ const UserSchema = new Schema<GoalValue>(
 	}
 )
 
-const GoalModel = model("goals", UserSchema)
+const GoalModel = model("goals", GoalSchema)
 export default GoalModel

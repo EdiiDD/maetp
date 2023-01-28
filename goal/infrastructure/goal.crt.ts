@@ -4,8 +4,7 @@ import { UseCaseGetGoalById } from "../application/goal.getGoalById";
 import handleHttpError from "../../share/utils/handleError";
 import { SearchBaseValue, SearchWithIdValue } from "../../share/domain/search.value";
 import { matchedData } from "express-validator";
-import { GoalDTO } from "../domain/goal.value";
-
+import { ErrorUtils } from "../../share/domain/error.value";
 
 export class GoalController {
 
@@ -25,7 +24,14 @@ export class GoalController {
 					language: language
 				})
 			)
-			res.send({ goals })
+
+			if (ErrorUtils.instanceOfErrorEntity(goals)) {
+				handleHttpError(res, 'ERROR_GOALS', 422)
+				return
+			}
+
+
+			res.send({ goals: goals })
 		} catch (error) {
 			handleHttpError(res, 'ERROR_REGISTER_USER')
 		}
@@ -42,9 +48,7 @@ export class GoalController {
 					language: language
 				})
 			)
-
-			res.send({ goal })
-
+			res.send(goal)
 		} catch (error) {
 			handleHttpError(res, 'ERROR_REGISTER_USER')
 		}

@@ -7,5 +7,5 @@ export interface GoalRepository {
 
 	getAllGoals(search: SearchEntity): Promise<GoalEntity[] | ErrorEntity>
 
-	getGoalById(search: SearchEntity): Promise<GoalEntity[] | ErrorEntity>
+	getGoalById(search: SearchEntity): Promise<GoalEntity | ErrorEntity>
 }
