@@ -13,3 +13,7 @@ export interface AnswerItemEntity {
 	title: string
 	isCorrect: boolean
 }
+
+export interface GetGameEntity {
+	language: string
+}

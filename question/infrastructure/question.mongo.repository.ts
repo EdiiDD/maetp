@@ -1,23 +1,26 @@
 import { ErrorEntity, UknowError } from "../../share/domain/error.value";
-import { QuestionEntity } from "../domain/question.entity";
+import { GetGameEntity, QuestionEntity } from "../domain/question.entity";
 import { QuestionsRepository } from "../domain/question.repository";
+import { GetGameMoongoseValue } from "../domain/question.value";
 import QuestionModel from "./question.schema";
 
 export class MongoRepository implements QuestionsRepository {
 
-	async getQuestions(): Promise<QuestionEntity[] | ErrorEntity> {
+	async getQuestions(getGame: GetGameEntity): Promise<QuestionEntity[] | ErrorEntity> {
 		try {
+			const getGameMoongoseValue = getGame as GetGameMoongoseValue
 			const questions = await QuestionModel.aggregate<QuestionEntity>([
 				{
 					"$match": {
 						"questions": {
 							"$elemMatch": {
-								"language": "es"
+								"language": `${getGameMoongoseValue.language}`
 							}
 						},
 						"answers": {
 							"$elemMatch": {
-								"language": "es"
+								"language": `${getGameMoongoseValue.language}`
+
 							}
 						}
 					}
@@ -33,7 +36,7 @@ export class MongoRepository implements QuestionsRepository {
 										"cond": {
 											"$eq": [
 												"$$question.language",
-												"es"
+												`${getGameMoongoseValue.language}`
 											]
 										}
 									}
@@ -48,7 +51,7 @@ export class MongoRepository implements QuestionsRepository {
 								"cond": {
 									"$eq": [
 										"$$answer.language",
-										"es"
+										`${getGameMoongoseValue.language}`
 									]
 								}
 							}
@@ -57,7 +60,7 @@ export class MongoRepository implements QuestionsRepository {
 				},
 				{
 					"$sample": {
-						"size": 10
+						"size": getGameMoongoseValue.numberQuestions
 					}
 				}
 			])

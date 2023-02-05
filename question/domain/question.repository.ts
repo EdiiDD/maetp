@@ -1,7 +1,7 @@
 import { ErrorEntity } from "../../share/domain/error.value";
-import { QuestionEntity } from "./question.entity";
+import { GetGameEntity, QuestionEntity } from "./question.entity";
 
 export interface QuestionsRepository {
 
-	getQuestions(): Promise<QuestionEntity[] | ErrorEntity>
+	getQuestions(getGame: GetGameEntity): Promise<QuestionEntity[] | ErrorEntity>
 }

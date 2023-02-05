@@ -4,7 +4,7 @@ import { Request, Response, NextFunction } from "express";
 import { validatorResults } from "../../share/utils/handleValidators"
 
 const validateQuestions = [
-	check("gameType")
+	check("game_type")
 		.exists()
 		.isNumeric(),
 
